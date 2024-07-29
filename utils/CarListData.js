@@ -26,7 +26,7 @@ export const CarListData = [{
     {
     id: 4,
     name: 'Uber Chauffeur',
-    desc: 'Affordable, Everyday Rides',
+    desc: 'Professional Chauffeur at your service',
     amount: 40,
     image: '/chauffeur.jpg'
     
